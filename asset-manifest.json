@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/vui-dashboard/static/css/main.ee01aa41.css",
-    "main.js": "/vui-dashboard/static/js/main.7180f94d.js",
+    "main.css": "/vui-dashboard/static/css/main.d2192e0a.css",
+    "main.js": "/vui-dashboard/static/js/main.4aaddbdb.js",
     "static/media/auth.png": "/vui-dashboard/static/media/auth.20d5979b439e1531640d.png",
     "static/media/NftBanner1.png": "/vui-dashboard/static/media/NftBanner1.87062366f75bedd52bd2.png",
     "static/media/banner.png": "/vui-dashboard/static/media/banner.ef572d78f29b0fee0a09.png",
@@ -22,11 +22,11 @@
     "static/media/image2.png": "/vui-dashboard/static/media/image2.556e407e0cd69698d537.png",
     "index.html": "/vui-dashboard/index.html",
     "static/media/checked.svg": "/vui-dashboard/static/media/checked.6cb596af2bbf729dfac3.svg",
-    "main.ee01aa41.css.map": "/vui-dashboard/static/css/main.ee01aa41.css.map",
-    "main.7180f94d.js.map": "/vui-dashboard/static/js/main.7180f94d.js.map"
+    "main.d2192e0a.css.map": "/vui-dashboard/static/css/main.d2192e0a.css.map",
+    "main.4aaddbdb.js.map": "/vui-dashboard/static/js/main.4aaddbdb.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee01aa41.css",
-    "static/js/main.7180f94d.js"
+    "static/css/main.d2192e0a.css",
+    "static/js/main.4aaddbdb.js"
   ]
 }
